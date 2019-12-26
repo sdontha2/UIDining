@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/informationBack"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Return To Homepage" />
+
+    <TextView
+        android:id="@+id/classicHalls3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Classic Dining Halls"
+        android:textSize="30sp" />
+
+    <Button
+        android:id="@+id/ikenberryHall3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ikenberry Dining Hall" />
+
+    <Button
+        android:id="@+id/par3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="PAR Dining Hall" />
+
+    <Button
+        android:id="@+id/buseyEvans3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Busey Evans Dining Hall" />
+
+    <Button
+        android:id="@+id/lar3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="LAR Dining Hall" />
+
+    <Button
+        android:id="@+id/far3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="FAR Dining Hall" />
+
+    <Button
+        android:id="@+id/blue3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Blue 41" />
+
+    <Button
+        android:id="@+id/orangeOnGreen3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Orange On Green" />
+
+    <TextView
+        android:id="@+id/aLaCarte3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="A La Carte"
+        android:textSize="30sp" />
+
+    <Button
+        android:id="@+id/north3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="57 North" />
+
+    <Button
+        android:id="@+id/caffeinator3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Caffeinator" />
+
+    <Button
+        android:id="@+id/ignite3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ignite" />
+
+</LinearLayout>
